@@ -1,3 +1,9 @@
 Adam Mickiewicz gained 125 points and passed the exam.
 John Kochanowski gained 75 points and passed the exam.
 Czeslaw Milosz gained 10 points and did not pass the exam.
+for --> 2
+academy --> 3
+student --> 1
+Java --> 0
+develop --> 3
+CAD --> 3

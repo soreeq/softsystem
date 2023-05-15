@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b53b73a-25fd-4a34-abb3-9b453fa97427" name="Changes" comment="" />
+    <list default="true" id="0b53b73a-25fd-4a34-abb3-9b453fa97427" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArithmeticExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArithmeticExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestOddDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/GreatestOddDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/ExamResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam/ExamResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/Participant.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam/Participant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/ResultAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam/ResultAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exam/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/softsystem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exam/softsystem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/SchoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/SchoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softsystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/softsystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PojtXCGltCivmCycyTXIAJ0bbs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +51,61 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="ArithmeticExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticExpression" />
+      <module name="softsystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.ExamResults" />
+      <module name="softsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="softsystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="school.SchoolTest" />
+      <module name="softsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.ArithmeticExpression" />
+      <item itemvalue="Application.ExamResults" />
+      <item itemvalue="Application.SchoolTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExamResults" />
+        <item itemvalue="Application.SchoolTest" />
+        <item itemvalue="Application.ArithmeticExpression" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +116,16 @@
       <updated>1684130548264</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
